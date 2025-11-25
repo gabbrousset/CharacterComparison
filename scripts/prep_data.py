@@ -17,8 +17,8 @@ def main():
 
     try:
         # load data
-        df_dialogue = pd.read_csv(DIALOGUE_PATH)
-        df_chars = pd.read_csv(CHARACTERS_PATH)
+        df_dialogue = pd.read_csv(DIALOGUE_PATH, encoding='ISO-8859-1')
+        df_chars = pd.read_csv(CHARACTERS_PATH, encoding='ISO-8859-1')
 
         # 'inner' to remove dialogue from characters not in list
         df_merged = pd.merge(df_dialogue, df_chars, on='Character ID', how='inner')
