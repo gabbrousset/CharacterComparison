@@ -1,6 +1,14 @@
 # CharacterComparison
 comp370 final project
 
+## Project Structure
+- data/
+  - raw/            # raw downloaded data
+  - processed/      # clean, filtered
+- scripts/
+  - prep_data.py
+
+
 ## Plan
 ### Data Collection / Cleaning
 - Choose show/movie(s)
