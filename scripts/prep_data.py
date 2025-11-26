@@ -24,7 +24,7 @@ def main():
         df_merged = pd.merge(df_dialogue, df_chars, on='Character ID', how='inner')
 
         # only need 2 columns
-        df_clean = df_merged[['Character Name', 'Dialogue']].copy()
+        df_clean = df_merged[['Dialogue ID', 'Character Name', 'Dialogue']].copy()
 
         # basic cleaning
         # empty rows
@@ -34,7 +34,7 @@ def main():
 
         # save to CSV
         os.makedirs(PROCESSED_DIR, exist_ok=True)
-        df_clean.to_csv(OUTPUT_PATH)
+        df_clean.to_csv(OUTPUT_PATH, index=False)
 
     except Exception as e:
         sys.exit(f'error: {e}')
