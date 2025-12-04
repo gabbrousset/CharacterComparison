@@ -4,7 +4,7 @@ import os
 import argparse
 
 
-INPUT_FILE = 'data/processed/cleaned_dialogue.csv'
+INPUT_FILE = '../data/processed/cleaned_dialogue.csv'
 
 
 def get_word_count(text):

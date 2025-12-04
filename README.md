@@ -5,10 +5,18 @@ comp370 final project
 ## Project Structure
 - data/
   - raw/            # raw downloaded data
-  - processed/      # clean, filtered
+  - processed/      # clean after prep_data.py script is run
+  - characters/     # one file of extracted dialogue per character
+  - annotations/
+    - nonbanter/    # annotated dialogue per character with banter column
+      - filtered/   # only 300 meaningful lines per character
+  - analysis        # TD-IDF
 - scripts/
   - prep_data.py
   - analyze_script.py
+  - extract_character.py
+  - shuffle_csv.py
+  - filter_col.py
 
 
 ## Plan
