@@ -1,0 +1,168 @@
+character | total lines | more than 5 words
+--------------------
+Harry Potter | 1922 | 1052
+Ron Weasley | 865 | 511
+Hermione Granger | 848 | 531
+Albus Dumbledore | 474 | 360
+Rubeus Hagrid | 228 | 176
+Severus Snape | 168 | 115
+Minerva McGonagall | 130 | 98
+Horace Slughorn | 128 | 112
+Voldemort | 118 | 82
+Neville Longbottom | 111 | 58
+Remus Lupin | 110 | 84
+Draco Malfoy | 103 | 77
+Alastor Moody | 93 | 61
+Fred Weasley | 92 | 51
+Dolores Umbridge | 88 | 70
+Arthur Weasley | 88 | 60
+Cornelius Fudge | 86 | 58
+Sirius Black | 86 | 66
+George Weasley | 78 | 38
+Ginny Weasley | 73 | 42
+Vernon Dursley | 73 | 51
+Bellatrix Lestrange | 66 | 49
+Lucius Malfoy | 63 | 43
+Tom Riddle | 61 | 46
+Luna Lovegood | 60 | 44
+Molly Weasley | 57 | 39
+Dobby | 55 | 39
+Gilderoy Lockhart | 47 | 35
+Seamus Finnigan | 37 | 24
+Griphook | 36 | 19
+Dudley Dursley | 36 | 15
+Petunia Dursley | 33 | 23
+Barty Crouch Sr. | 26 | 18
+Argus Filch | 25 | 20
+Xenophilius Lovegood | 25 | 19
+Cedric Diggory | 22 | 11
+Percy Weasley | 22 | 15
+Sybill Trelawney | 21 | 18
+Moaning Myrtle | 20 | 16
+Aberforth Dumbledore | 18 | 14
+Quirinus Quirrell | 17 | 14
+James Potter | 17 | 8
+Oliver Wood | 16 | 13
+Garrick Ollivander | 16 | 15
+Lily Potter | 16 | 10
+Peter Pettigrew | 16 | 13
+Kreacher | 15 | 12
+Igor Karkaroff | 15 | 9
+Other | 15 | 7
+Nearly Headless Nick | 15 | 9
+Rolanda Hooch | 15 | 7
+Rufus Scrimgeour | 14 | 14
+Lee Jordan | 13 | 11
+Students | 13 | 3
+Scabior | 13 | 10
+Stanley Shunpike | 12 | 9
+Rita Skeeter | 12 | 11
+Marge Dursley | 12 | 10
+Helena Ravenclaw | 12 | 11
+Filius Flitwick | 12 | 7
+Cho Chang | 12 | 8
+Kingsley Shacklebolt | 12 | 5
+Sorting Hat | 11 | 7
+Nymphadora Tonks | 11 | 8
+Elphias Doge | 11 | 11
+Narcissa Malfoy | 11 | 8
+Rosmerta | 10 | 5
+Bogrod | 10 | 10
+Lavender Brown | 10 | 6
+Amos Diggory | 9 | 5
+Susan Bones | 8 | 5
+Olympe Maxime | 8 | 5
+Aragog | 8 | 6
+Ghosts | 8 | 5
+Cormac McLaggen | 8 | 7
+Corban Yaxley | 8 | 5
+Bill Weasley | 8 | 4
+Merpeople | 8 | 4
+Fleur Delacour | 7 | 5
+Angelina Johnson | 7 | 6
+Mundungus Fletcher | 7 | 6
+Muriel | 7 | 7
+Gang thug | 7 | 5
+Dean Thomas | 7 | 4
+Pomona Sprout | 7 | 7
+Parvati Patil | 7 | 1
+Goblin | 7 | 4
+Station guard | 7 | 7
+Vincent Crabbe | 7 | 3
+Girl | 7 | 3
+Marcus Flint | 6 | 2
+Guard | 6 | 4
+All | 6 | 0
+Mary Cattermole | 6 | 3
+Poppy Pomfrey | 6 | 5
+Albus Potter | 6 | 3
+Maid | 5 | 2
+Boy | 5 | 3
+Mrs. Cole | 5 | 4
+Tom | 5 | 3
+Woman | 5 | 4
+Serpent of Slitherin | 5 | 4
+Man | 5 | 2
+Arabella Figg | 5 | 5
+Pansy Parkinson | 5 | 5
+Barty Crouch Jr. | 5 | 5
+Firenze | 5 | 5
+Mrs. Granger | 4 | 4
+Katie Bell | 4 | 4
+Pius Thicknesse | 4 | 3
+Grawp | 4 | 0
+Snatcher | 4 | 0
+The Fat Lady | 4 | 3
+Wizard | 4 | 4
+Trolley witch | 3 | 3
+Waitress | 3 | 3
+Padma Patil | 3 | 2
+Fenrir Greyback | 3 | 1
+Diary | 3 | 2
+Leanne | 3 | 3
+Gregory Goyle | 3 | 1
+Gellert Grindelwald | 3 | 3
+Bane | 3 | 3
+Old man | 2 | 2
+Bathilda Bagshot | 2 | 1
+Class | 2 | 0
+Witch | 2 | 1
+Mr. Granger | 2 | 2
+Shrunken head | 2 | 0
+Blaise Zabini | 2 | 1
+Griselda Marchbanks | 2 | 2
+Justin Finch-Fletchley | 2 | 2
+Snake | 2 | 2
+Perkins | 2 | 1
+Colin Creevey | 2 | 2
+Howler | 2 | 1
+Skinny kid | 2 | 1
+Nigel Wolpert | 2 | 2
+Zacharias Smith | 2 | 2
+Viktor Krum | 2 | 1
+Walburga Black | 2 | 2
+Everard | 2 | 1
+Phineas | 2 | 0
+Magorian | 2 | 2
+Ghost | 2 | 1
+Bloody Baron | 1 | 0
+Photographer | 1 | 1
+Pixie | 1 | 1
+Alecto Carrow | 1 | 1
+Professors | 1 | 1
+Centaur | 1 | 0
+Mykew Gregorovitch | 1 | 1
+Crowd | 1 | 1
+Boy 2 | 1 | 1
+Whomping Willow | 1 | 0
+Man in a painting | 1 | 1
+Charity Burbage | 1 | 0
+Waiter | 1 | 1
+Michael Corner | 1 | 1
+Gryffindors | 1 | 0
+Ernest Macmillan | 1 | 1
+Eldred Worple | 1 | 1
+Marcus Belby | 1 | 1
+Dilys Derwent | 1 | 1
+Death Eater | 1 | 0
+Student | 1 | 0
